@@ -48,8 +48,8 @@
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <!-- 安装app时的提示信息\拼写简单 -->
-    <string>RetroArch App install…</string>
+    <!-- 安装app时的提示信息 -->
+    <string>RetroArch</string>
    </dict>
   </dict>
  </array>
